@@ -12,6 +12,7 @@ public class CameraRotate : MonoBehaviour
     void Start()
     {
         Cursor.lockState = CursorLockMode.Locked;                       //마우스 커서를 잠굼
+        
     }
 
     void Update()
